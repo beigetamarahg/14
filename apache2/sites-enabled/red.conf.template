@@ -1,0 +1,3 @@
+<VirtualHost *:$PORT>
+    DocumentRoot /var/www/red
+</VirtualHost>
