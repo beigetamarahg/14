@@ -1,0 +1,3 @@
+[submodule "14-subm"]
+	path = 14-subm
+	url = https://github.com/beigetamarahg/14-subm.git
